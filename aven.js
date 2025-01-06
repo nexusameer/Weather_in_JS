@@ -1,6 +1,4 @@
 document.querySelector('')
-
-
 document.querySelectorAll('ul')
 document.getElementById('myid')
 document.getElementsByClassName('myclass')
